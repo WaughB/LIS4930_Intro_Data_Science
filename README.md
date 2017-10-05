@@ -14,4 +14,6 @@ education and income.
 Mean Household Income by Zip Code: Creates several box-and-whiskers plots that 
 show the relationship between zip codes 0-9 by color and distribution. 
 
-
+Linear and Local Polynomial Regression: Shows ten-thousand numbers between zero 
+and ten in a polynomial. This shows the benefits of using the LOESS function
+instead of the lr function. 
