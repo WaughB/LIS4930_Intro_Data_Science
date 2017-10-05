@@ -17,3 +17,11 @@ show the relationship between zip codes 0-9 by color and distribution.
 Linear and Local Polynomial Regression: Shows ten-thousand numbers between zero 
 and ten in a polynomial. This shows the benefits of using the LOESS function
 instead of the lr function. 
+
+Miles Per Gallon (MPG) of Car Models/nGrouped by Cylinder: Shows that the lower
+the number of cylinders in a car, the better the mpg.
+
+Distribution of Car Cylinder Counts and Gears: Groups the cars by number of
+cylinders then shows the distribution of gears in that category. 
+
+
