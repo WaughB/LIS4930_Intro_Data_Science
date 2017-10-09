@@ -9,10 +9,11 @@ statistics but upon inspection, the data points are spread widely. This also
 shows that Linear Regression is not the best fit for all datasets. 
 
 Education and Household Income: Creates a scatterplot that shows the relationship between
-education and income.
+education and income. Depends on zipIncome.csv file. 
 
 Mean Household Income by Zip Code: Creates several box-and-whiskers plots that 
-show the relationship between zip codes 0-9 by color and distribution. 
+show the relationship between zip codes 0-9 by color and distribution. Depends 
+on zipIncome.csv file. 
 
 Linear and Local Polynomial Regression: Shows ten-thousand numbers between zero 
 and ten in a polynomial. This shows the benefits of using the LOESS function
@@ -24,4 +25,7 @@ the number of cylinders in a car, the better the mpg.
 Distribution of Car Cylinder Counts and Gears: Groups the cars by number of
 cylinders then shows the distribution of gears in that category. 
 
+Purchasing Power of the US Minimum Wage, 1938-2016: A line graph showing the the 
+purchasing power of the US Federal minimum wage from its beginning in 1938 to 
+2016. Depends on "Purchasing Power 1938-2016.xlsx" file. 
 
