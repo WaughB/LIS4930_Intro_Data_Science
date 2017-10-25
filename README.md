@@ -29,3 +29,5 @@ Purchasing Power of the US Minimum Wage, 1938-2016: A line graph showing the the
 purchasing power of the US Federal minimum wage from its beginning in 1938 to 
 2016. Depends on "Purchasing Power 1938-2016.xlsx" file. 
 
+K means analysis of student data: Uses K-means analysis to show student's results
+in math, science, and english. 
