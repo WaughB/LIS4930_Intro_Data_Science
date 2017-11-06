@@ -31,3 +31,8 @@ purchasing power of the US Federal minimum wage from its beginning in 1938 to
 
 K means analysis of student data: Uses K-means analysis to show student's results
 in math, science, and english. 
+
+Grocery Store Association Rules: Uses default grocery data in 'arules' to create
+three different graphs. The first is top ten items, the second shows the how
+likely a person is to buy certain other items based on a purchase, and the last
+is a more refined second graph. 
