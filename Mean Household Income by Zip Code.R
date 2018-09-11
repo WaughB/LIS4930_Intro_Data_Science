@@ -4,8 +4,8 @@
 # Creates a graph of houeshold income and zip code. 
 # Depends on zipIncome.csv file. 
 
-# Install readr. 
-install.packages("readr")
+# If you do not already have readr, uncomment the next line. 
+# install.packages("readr")
 
 #Load readr. 
 library(readr)
@@ -19,6 +19,9 @@ y <- zipIncome$MeanHouseholdIncome # Creates the mean income as y variable.
 
 # Creates a data frame of x and y.
 data <- as.data.frame(cbind(x, y))  
+
+# If you do not already have ggplot2, uncomment the next line.
+# install.packages("ggplot2")
 
 # Install ggplot2 
 library(ggplot2)
