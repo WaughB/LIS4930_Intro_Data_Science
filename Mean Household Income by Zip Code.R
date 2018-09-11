@@ -5,6 +5,9 @@
 # Depends on zipIncome.csv file. 
 
 # Install readr. 
+install.packages("readr")
+
+#Load readr. 
 library(readr)
 
 # Remember to fill in file location. 
