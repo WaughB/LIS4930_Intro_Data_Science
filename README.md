@@ -1,4 +1,4 @@
-# Introduction-to-Data-Science-LIS4930
+# LIS4930 Introduction to Data Science
 Class was taken at the University of South Florida under Professor Hagen in
 Fall 2017. These projects were often from "Data Science and Big Data Analytics"
 by EMC Education Services. Projects were assigned on a as-needed basis and will
